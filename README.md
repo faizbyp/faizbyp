@@ -1,5 +1,5 @@
 <h1>👋 Halo! Saya Faiz,</h1>
-Saya tertarik dalam bidang Game Development, Desain Grafis, dan Web Development
+Saya tertarik dalam bidang Game Development, Desain Grafis, dan Web Development<br>
 Saat ini saya sedang mempelajari 2D Game Art, HTML dan CSS
 
 <hr>
