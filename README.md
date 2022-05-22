@@ -1,6 +1,5 @@
 <h1>👋 Halo! Saya Faiz,</h1>
 Saya tertarik dalam bidang Web Development dan Desain Grafis.<br>
-Saat ini saya sedang mempelajari HTML, CSS, PHP, dan MySQL.
 
 <hr>
 <a href="https://github.com/faizbyp">
