@@ -1,5 +1,5 @@
-<h1>👋 Halo! Saya Faiz,</h1>
-Saya tertarik dalam bidang Web Development dan Desain Grafis.<br>
+<h1>👋 Greetings! I'm Faiz</h1>
+A Computer Science student who puts an interest in creative and technology fields, especially in graphic design, game, and website development. Faiz has a high level of curiosity, able to take the initiative and think critically, full of consideration, and never runs out of ambitions. Faiz always looks for opportunities to develop his capacity, both in terms of soft skills and technical skills.<br>
 
 <hr>
 <a href="https://github.com/faizbyp">
