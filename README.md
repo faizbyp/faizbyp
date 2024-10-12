@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faiz Byputra
 ====================================================================================================================================
 
-A Computer Science student who puts an interest in creative and technology fields, especially in graphic design, game, and website development. Faiz has a high level of curiosity, able to take the initiative and think critically, full of consideration, and never runs out of ambitions. Faiz always looks for opportunities to develop his capacity, both in terms of soft skills and technical skills.
+A Computer Science graduate who puts an interest in creative and technology fields, especially in graphic design, game, and website development. Faiz has a high level of curiosity, able to take the initiative and think critically, full of consideration, and never runs out of ambitions. Faiz always looks for opportunities to develop his capacity, both in terms of soft skills and technical skills.
 
 * 🌍  I'm based in Indonesia
 * 🧠  I'm learning Single Page Application and Static Site Generator
